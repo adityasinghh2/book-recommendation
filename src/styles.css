@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: slateblue;
+}
+h1 {
+  color: white;
+}
+p {
+  color: white;
+}
+
+button {
+  font-size: 1.5rem;
+  color: white;
+  background-color: red;
+  padding: 0.4rem 0.4rem;
+  border: 1px solid black;
+  border-radius: 0.2rem;
+  margin: 0.2rem 0.2rem;
+  cursor: pointer;
+  display: inline;
+}
+
+li {
+  color: white;
+  list-style: none;
+  padding: 1rem;
+  width: 70%;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  margin: 0.8rem 0rem;
+}
